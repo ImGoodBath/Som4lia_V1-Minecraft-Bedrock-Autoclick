@@ -7,7 +7,7 @@
 ## ✨ Key Features
 
 * **Custom CPS Control:** Finely adjust your Clicks Per Second (CPS) to match your gameplay or task.
-* **Advanced Keybinding:** Easily bind the start/stop trigger to extra mouse buttons (like **Mouse Button 5 / XButton2**) or any keyboard key.
+* **Advanced Keybinding:** Easily bind the start/stop trigger to extra mouse buttons (**Not compatible with LeftClick button**) or any keyboard key.
 * **Modern & Clean UI:** A distraction-free, stylish user interface designed for quick configuration.
 * **Ultra-lightweight:** Minimal CPU and RAM footprint to ensure zero lag while gaming.
 
@@ -15,7 +15,8 @@
 
 ## 🖥️ Preview & Interface
 
-<img width="500" height="519" alt="Captura de pantalla 2026-05-09 153752" src="https://github.com/user-attachments/assets/43314e9b-d0dd-49a8-a88b-98dc0d11e037" />
+<img width="477" height="527" alt="Captura de pantalla 2026-05-09 212739" src="https://github.com/user-attachments/assets/c71479e4-0398-417c-b0e4-5b606759e9dd" />
+
 
 
 ---
